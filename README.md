@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abubakar980&label=Profile%20views&color=0e75b6&style=flat" alt="abubakar980" /> </p>
 
-- 🌱 I’m currently learning **Reactjs, JS, DSA**
+- 🌱 I’m currently learning **Reactjs, JS, MERN, DSA**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abubakar980](https://github.com/Abubakar980)
 
-- 💬 Ask me about **React, HTML, CSS, JS, Github**
+- 💬 Ask me about **React, HTML, CSS, JS, MERN, Github**
 
 - 📫 How to reach me **abubakarmujahid980@gmail.com**
 
