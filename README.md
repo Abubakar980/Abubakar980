@@ -24,6 +24,13 @@ Email Me 👉 ✉️ **abubakarmujahid980@gmail.com** For Collaboration/Project 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Abubakar980&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+<details open>
+<summary>Developer Quote</summary>
+<p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=C2FFC7&center=true&vCenter=true&random=false&width=800&lines=The+people+who+are+crazy+enough+to+think+they+can+change+the+world;are+the+ones+who+do.++-+Steve+Jobs" alt="Developer Quote"/>
+</p>
+</details>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -63,10 +70,6 @@ Email Me 👉 ✉️ **abubakarmujahid980@gmail.com** For Collaboration/Project 
   </a>
 </p>
 
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Abubakar980&limit=5&theme=dark&combine_all_yearly_contributions=true)
